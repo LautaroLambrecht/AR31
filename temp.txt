@@ -1,0 +1,10 @@
+Valencia_C.F. Levante_U.D. empate 10 25
+Valencia_C.F. Levante_U.D. Valencia 15 35
+Valencia_C.F. Levante_U.D. Levante 15 27
+Valencia_C.F. Levante_U.D. Levante 18 32
+Valencia_C.F. Levante_U.D. empate 10 39
+Valencia_C.F. Levante_U.D. empate 10 14
+Valencia_C.F. Levante_U.D. Levante 18 37
+Valencia_C.F. Levante_U.D. Levante 18 32
+Valencia_C.F. Levante_U.D. Valencia 15 12
+

@@ -1,0 +1,9 @@
+empate 10 25
+Valencia 15 35
+Levante 15 27
+Levante 18 32
+empate 10 39
+empate 10 14
+Levante 18 37
+Levante 18 32
+Valencia 15 12

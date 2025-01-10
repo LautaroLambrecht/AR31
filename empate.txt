@@ -1,0 +1,3 @@
+empate 10 25
+empate 10 39
+empate 10 14

@@ -1,0 +1,6 @@
+cat derbi.txt | sed 's/ /_/g' > temp.txt
+cat temp.txt | sed 's/,/ /g' > temp.txt
+awk '{print $3, $4, $5}' temp.txt > columnas.txt
+grep 'empate' columnas.txt > empate.txt
+grep 'Valencia' columnas.txt > empate.txt
+grep 'Levante' columnas.txt > empate.txt
